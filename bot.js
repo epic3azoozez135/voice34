@@ -72,5 +72,5 @@ client.on('message', msg => {
 }
 })
 client.on('ready', () => {
-    client.channels.get("517597861060280321").join();
+    client.channels.get("517598518534209537").join();
     });
