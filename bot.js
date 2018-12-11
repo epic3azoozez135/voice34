@@ -14,7 +14,7 @@ client.on('message', msg => {
 }
 })
 client.on('ready', () => {
-    client.channels.get("id Room").join();
+    client.channels.get("517598518534209537").join();
     });
 
 
